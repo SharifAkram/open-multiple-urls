@@ -6,7 +6,8 @@ urls = ['boot.dev',
         'https://chat.openai.com/',
         'https://stackoverflow.com/',
         'youtube.com',
-        'github.com']
+        'github.com',
+        'google.com']
 
 urls.each do |url|
   begin
